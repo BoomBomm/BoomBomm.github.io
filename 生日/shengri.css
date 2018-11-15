@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+ 	padding: 0;
+}
+
+html,body{
+	height: 100%;
+	background-image: url(./2222.jpg);
+	background-size:cover;
+	background-repeat: no-repeat;
+}
+.a{
+	display: flex;          
+  	flex-direction: column; 
+  	font-size: 50px;        
+  	font-family: arial; 
+  	color: #FA5882;
+  	font-weight :400;
+  	line-height: 8;
+  	text-align: center;
+}
